@@ -9,7 +9,7 @@ import (
 	jsoniter "github.com/json-iterator/go"
 	"github.com/pkg/errors"
 
-	"github.com/khulnasoft-lab/fastdialer/fastdialer"
+	"github.com/projectdiscovery/fastdialer/fastdialer"
 	"github.com/khulnasoft-lab/gologger"
 	"github.com/khulnasoft-lab/vulmap/pkg/model"
 	"github.com/khulnasoft-lab/vulmap/pkg/operators"

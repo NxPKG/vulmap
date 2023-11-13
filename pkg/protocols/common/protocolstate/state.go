@@ -8,7 +8,7 @@ import (
 	"github.com/pkg/errors"
 	"golang.org/x/net/proxy"
 
-	"github.com/khulnasoft-lab/fastdialer/fastdialer"
+	"github.com/projectdiscovery/fastdialer/fastdialer"
 	"github.com/khulnasoft-lab/networkpolicy"
 	"github.com/khulnasoft-lab/vulmap/pkg/types"
 )

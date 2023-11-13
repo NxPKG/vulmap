@@ -9,13 +9,13 @@ import (
 	"sync"
 
 	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	updateutils "github.com/khulnasoft-lab/utils/update"
 )
 
 const (
-	pdtmVulmapVersionEndpoint    = "https://api.pdtm.sh/api/v1/tools/vulmap"
-	pdtmVulmapIgnoreFileEndpoint = "https://api.pdtm.sh/api/v1/tools/vulmap/ignore"
+	pdtmVulmapVersionEndpoint    = "https://api.pdtm.sh/api/v1/tools/nuclei"
+	pdtmVulmapIgnoreFileEndpoint = "https://api.pdtm.sh/api/v1/tools/nuclei/ignore"
 )
 
 // defaultHttpClient is http client that is only meant to be used for version check

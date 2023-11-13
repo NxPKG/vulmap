@@ -10,7 +10,7 @@ import (
 	"github.com/khulnasoft-lab/vulmap/pkg/reporting/trackers/github"
 	"github.com/khulnasoft-lab/vulmap/pkg/reporting/trackers/gitlab"
 	"github.com/khulnasoft-lab/vulmap/pkg/reporting/trackers/jira"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 )
 
 // Options is a configuration file for vulmap reporting module

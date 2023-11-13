@@ -19,7 +19,7 @@ import (
 	"gopkg.in/yaml.v2"
 
 	"github.com/khulnasoft-lab/vulmap/pkg/testutils"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 	fileutil "github.com/khulnasoft-lab/utils/file"
 	logutil "github.com/khulnasoft-lab/utils/log"

@@ -18,7 +18,7 @@ import (
 	jsoniter "github.com/json-iterator/go"
 	"github.com/pkg/errors"
 	"github.com/khulnasoft-lab/vulmap/pkg/output"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 )
 
 // Client is a client for result retrieval from vulmap-cloud API

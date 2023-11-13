@@ -5,7 +5,7 @@
 package templates
 
 import (
-	"github.com/khulnasoft-labs/yamldoc-go/encoder"
+	"github.com/projectdiscovery/yamldoc-go/encoder"
 )
 
 var (

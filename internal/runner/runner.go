@@ -56,7 +56,7 @@ import (
 	"github.com/khulnasoft-lab/vulmap/pkg/utils"
 	"github.com/khulnasoft-lab/vulmap/pkg/utils/stats"
 	"github.com/khulnasoft-lab/vulmap/pkg/utils/yaml"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	ptrutil "github.com/khulnasoft-lab/utils/ptr"
 )
 

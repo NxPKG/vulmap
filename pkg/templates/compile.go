@@ -22,7 +22,7 @@ import (
 	"github.com/khulnasoft-lab/vulmap/pkg/templates/signer"
 	"github.com/khulnasoft-lab/vulmap/pkg/tmplexec"
 	"github.com/khulnasoft-lab/vulmap/pkg/utils"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 	stringsutil "github.com/khulnasoft-lab/utils/strings"
 )

@@ -18,7 +18,7 @@ import (
 	"go.uber.org/multierr"
 	"moul.io/http2curl"
 
-	"github.com/khulnasoft-lab/fastdialer/fastdialer"
+	"github.com/projectdiscovery/fastdialer/fastdialer"
 	"github.com/khulnasoft-lab/gologger"
 	"github.com/khulnasoft-lab/vulmap/pkg/operators"
 	"github.com/khulnasoft-lab/vulmap/pkg/output"

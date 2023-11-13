@@ -24,7 +24,7 @@ import (
 	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	"github.com/khulnasoft-lab/vulmap/pkg/types/scanstrategy"
 	"github.com/khulnasoft-lab/rawhttp"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 	readerutil "github.com/khulnasoft-lab/utils/reader"
 	stringsutil "github.com/khulnasoft-lab/utils/strings"

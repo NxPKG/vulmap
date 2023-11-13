@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 
 	"github.com/pkg/errors"
 	"golang.org/x/exp/maps"

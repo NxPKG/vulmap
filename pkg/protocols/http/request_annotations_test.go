@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols/http/httpclientpool"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	"github.com/stretchr/testify/require"
 )
 

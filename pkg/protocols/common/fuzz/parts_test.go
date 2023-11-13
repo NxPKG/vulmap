@@ -1,7 +1,7 @@
 package fuzz
 
 import (
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	"net/http"
 	"testing"
 

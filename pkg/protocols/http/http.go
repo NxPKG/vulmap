@@ -16,7 +16,7 @@ import (
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols/http/httpclientpool"
 	httputil "github.com/khulnasoft-lab/vulmap/pkg/protocols/utils/http"
 	"github.com/khulnasoft-lab/rawhttp"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	fileutil "github.com/khulnasoft-lab/utils/file"
 )
 

@@ -15,7 +15,7 @@ import (
 
 	"github.com/khulnasoft-lab/vulmap/pkg/output"
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 )
 
 // Options contains necessary options required for elasticsearch communication

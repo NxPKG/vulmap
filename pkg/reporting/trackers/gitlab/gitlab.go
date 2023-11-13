@@ -8,7 +8,7 @@ import (
 	"github.com/khulnasoft-lab/vulmap/pkg/output"
 	"github.com/khulnasoft-lab/vulmap/pkg/reporting/exporters/markdown/util"
 	"github.com/khulnasoft-lab/vulmap/pkg/reporting/format"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 )
 
 // Integration is a client for an issue tracker integration

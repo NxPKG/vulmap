@@ -22,7 +22,7 @@ import (
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
 	"github.com/khulnasoft-lab/vulmap/pkg/templates"
 	"github.com/khulnasoft-lab/vulmap/pkg/types"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 	"gopkg.in/yaml.v3"
 )

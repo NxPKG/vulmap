@@ -9,7 +9,7 @@ import (
 	"github.com/khulnasoft-lab/vulmap/pkg/catalog"
 	"github.com/khulnasoft-lab/vulmap/pkg/catalog/config"
 	"github.com/khulnasoft-lab/vulmap/pkg/utils/yaml"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	fileutil "github.com/khulnasoft-lab/utils/file"
 )
 

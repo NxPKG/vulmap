@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/khulnasoft-lab/fastdialer/fastdialer"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/fastdialer/fastdialer"
+	"github.com/projectdiscovery/retryablehttp-go"
 	iputil "github.com/khulnasoft-lab/utils/ip"
 	stringsutil "github.com/khulnasoft-lab/utils/strings"
 )

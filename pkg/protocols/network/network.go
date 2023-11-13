@@ -5,7 +5,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/khulnasoft-lab/fastdialer/fastdialer"
+	"github.com/projectdiscovery/fastdialer/fastdialer"
 	"github.com/khulnasoft-lab/vulmap/pkg/operators"
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/expressions"

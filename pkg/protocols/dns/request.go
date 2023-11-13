@@ -22,7 +22,7 @@ import (
 	protocolutils "github.com/khulnasoft-lab/vulmap/pkg/protocols/utils"
 	templateTypes "github.com/khulnasoft-lab/vulmap/pkg/templates/types"
 	"github.com/khulnasoft-lab/vulmap/pkg/utils"
-	"github.com/khulnasoft-lab/retryabledns"
+	"github.com/projectdiscovery/retryabledns"
 	iputil "github.com/khulnasoft-lab/utils/ip"
 )
 

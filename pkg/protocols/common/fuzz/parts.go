@@ -13,7 +13,7 @@ import (
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/expressions"
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/generators"
 	"github.com/khulnasoft-lab/vulmap/pkg/types"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	sliceutil "github.com/khulnasoft-lab/utils/slice"
 	urlutil "github.com/khulnasoft-lab/utils/url"
 )

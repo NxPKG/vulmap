@@ -16,14 +16,14 @@ import (
 	"golang.org/x/net/proxy"
 	"golang.org/x/net/publicsuffix"
 
-	"github.com/khulnasoft-lab/fastdialer/fastdialer"
-	"github.com/khulnasoft-lab/fastdialer/fastdialer/ja3/impersonate"
+	"github.com/projectdiscovery/fastdialer/fastdialer"
+	"github.com/projectdiscovery/fastdialer/fastdialer/ja3/impersonate"
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/protocolstate"
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols/utils"
 	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	"github.com/khulnasoft-lab/vulmap/pkg/types/scanstrategy"
 	"github.com/khulnasoft-lab/rawhttp"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	mapsutil "github.com/khulnasoft-lab/utils/maps"
 )
 

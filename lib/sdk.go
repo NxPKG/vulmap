@@ -22,7 +22,7 @@ import (
 	"github.com/khulnasoft-lab/vulmap/pkg/templates/signer"
 	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	"github.com/khulnasoft-lab/ratelimit"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 )
 

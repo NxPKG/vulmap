@@ -15,7 +15,7 @@ import (
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/generators"
 	"github.com/khulnasoft-lab/vulmap/pkg/types"
-	"github.com/khulnasoft-lab/retryabledns"
+	"github.com/projectdiscovery/retryabledns"
 )
 
 // Match matches a generic data response against a given matcher

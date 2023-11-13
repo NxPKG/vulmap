@@ -8,7 +8,7 @@ import (
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols"
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/contextargs"
 	"github.com/khulnasoft-lab/vulmap/pkg/protocols/common/generators"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 )
 

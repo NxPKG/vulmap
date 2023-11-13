@@ -23,7 +23,7 @@ import (
 	"github.com/khulnasoft-lab/vulmap/pkg/types"
 	"github.com/khulnasoft-lab/vulmap/pkg/utils/stats"
 	"github.com/khulnasoft-lab/vulmap/pkg/workflows"
-	"github.com/khulnasoft-lab/retryablehttp-go"
+	"github.com/projectdiscovery/retryablehttp-go"
 	errorutil "github.com/khulnasoft-lab/utils/errors"
 	stringsutil "github.com/khulnasoft-lab/utils/strings"
 	urlutil "github.com/khulnasoft-lab/utils/url"
